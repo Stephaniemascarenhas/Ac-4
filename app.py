@@ -1,9 +1,3 @@
-click==6.7
-Flask==1.0
-itsdangerous==0.24
-Jinja2==2.10.1
-Werkzeug==0.15.3
-Rafaela Oliveira de Sousa23:04
 import os
 from flask import Flask, jsonify, request
 from math import sqrt
